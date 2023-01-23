@@ -88,7 +88,7 @@ span{
 
 .component {
     background: rgb(3,16,38);
-    background:  linear-gradient(to right, hsl(194, 79%, 42%), hsl(194, 79%, 42%), hsl(194, 79%, 42%)) ;
+    background:  transparent linear-gradient(to right, rgba(255, 255, 255, 0), #1798BF, rgba(255, 255, 255, 0)) repeat scroll 0 0;
     width: 90%;
     height: 60px;
     text-align: center;
