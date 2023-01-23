@@ -71,7 +71,7 @@ span{
 }
 .button {
     background: rgb(3,16,38);
-    background: linear-gradient(153deg, rgba(3,16,38,1) 6%, rgb(7, 38, 111) 34%, rgb(43, 117, 235) 96%);
+    background:  linear-gradient(to right, hsl(194, 79%, 42%), hsl(194, 79%, 42%), hsl(194, 79%, 42%)) ;
     padding: 20px 30px;
     color: white;
     text-decoration: none;
@@ -88,7 +88,7 @@ span{
 
 .component {
     background: rgb(3,16,38);
-    background: linear-gradient(153deg, rgba(3,16,38,1) 6%, rgb(7, 38, 111) 34%, rgb(43, 117, 235) 96%);
+    background:  linear-gradient(to right, hsl(194, 79%, 42%), hsl(194, 79%, 42%), hsl(194, 79%, 42%)) ;
     width: 90%;
     height: 60px;
     text-align: center;
@@ -105,11 +105,11 @@ span{
     width: 100%;
 }
 .box1{
-    width: 350px;
+    width: 300px;
     height: 200px;
     border-radius:20px ;
     background: rgb(3,16,38);
-    background: linear-gradient(153deg, rgba(3,16,38,1) 6%, rgb(7, 38, 111) 34%, rgb(43, 117, 235) 96%);
+    background:  linear-gradient(to right, hsl(194, 79%, 42%), hsl(194, 79%, 42%), hsl(194, 79%, 42%)) ;
     margin: 30px;
     display: flex;
     flex-direction: column;
