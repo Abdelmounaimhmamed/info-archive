@@ -70,8 +70,8 @@ span{
     height: 500px;
 }
 .button {
-    background: rgb(78,12,92);
-    background: linear-gradient(153deg, rgba(78,12,92,1) 18%, rgba(188,8,255,1) 67%, rgba(150,57,156,1) 100%);
+   background: rgb(78,12,92);
+background: linear-gradient(153deg, rgba(78,12,92,1) 18%, rgba(188,8,255,1) 67%, rgba(150,57,156,1) 100%);
     padding: 20px 30px;
     color: white;
     text-decoration: none;
@@ -87,8 +87,8 @@ span{
 }
 
 .component {
-    background: rgb(78,12,92);
-    background: linear-gradient(153deg, rgba(78,12,92,1) 18%, rgba(188,8,255,1) 67%, rgba(150,57,156,1) 100%);
+    background: rgb(3,16,38);
+    background:  transparent linear-gradient(153deg, rgba(78,12,92,1) 18%, rgba(188,8,255,1) 67%, rgba(150,57,156,1) 100%) repeat scroll 0 0;
     width: 90%;
     height: 60px;
     text-align: center;
@@ -119,10 +119,10 @@ span{
 
 i{
     color: white;
-    font-size: 30px;
+    font-size: 40px;
 }
 .content{
     color: white;
-    font-size: 25px;
+    font-size: 22px;
     margin: 10px;
 }
