@@ -1,6 +1,28 @@
 <%- include("./components/header.ejs"); %>
 
 
+<section class="contact-1">
+
+    <div class="proposal">
+        <span class="name"> Contact Us !</span>
+        <p > contact us and provide for us  some new features
+            to this websiteb .  </p>
+    </div>
+
+    <form class="contact" action="/contact" method="post">
+        <div class="two-two">
+            <input class="input" name="email" type="email" placeholder="*Email"  required/>
+            <input class="input" name="name" type="text" placeholder="*Name" required />
+        </div>
+        <input class="big-input" name="subject" type="text" placeholder="subject" required>
+        <textarea class=" textfield" placeholder="Enter a proposal" name="textarea">
+            Enter a proposal
+        </textarea> 
+        <button class="btn" type="submit">Contact !</button>
+    </form>
+
+</section>
+
 
 
 <%- include("./components/footer.ejs") %> 
