@@ -448,28 +448,28 @@ const data_s2 = [
         icon : "fa-solid fa-code",
         title : "Analyse de données",
         module_1 : {
-            title : "00-introduction generale au reseau",
-            link : "https://drive.google.com/file/d/1eB-wcPtya9zpeudstR-swbsern9IlBro/view?usp=sharing"
+            title : "Seance 1: Analyse en composantes  principales",
+            link : "https://drive.google.com/file/d/1sR5OdBbJ1TAHlQ3uOnMZ7eHmnOLuoFV-/view?usp=sharing"
         },
         module_2 : {
-            title : "01-modeles de references -OSI-TCPIP",
-            link : "https://drive.google.com/file/d/1oBk3gWT3v9PKhgcnLM0SsX3Rrj1hT99t/view?usp=sharing"
+            title : "cours-generale : Analyse en composantes principales (ACP)",
+            link : "https://drive.google.com/file/d/1b2VtvFQ3QNCl_QdL7jWVramsZPPMFOvA/view?usp=sharing"
         },
         module_3 : {
-            title : "02-Equipement d'interconnexion",
-            link : "https://drive.google.com/file/d/11iXX8SJIVUfSDTeFZOSxmo-3_ghZy_yE/view?usp=sharing"
+            title : "chapitre-1 (prof ghazdali) acp",
+            link : "https://drive.google.com/file/d/1JulSlq6O2XDVMSPOCtU6homgTgBPijD7/view?usp=sharing"
         }, module_4 : {
-            title : "03-adressage",
-            link : "https://drive.google.com/file/d/1OPSL3GltepbRd0PKNZHKxfUoYY9eVd5j/view?usp=sharing"
+            title : "autre cour Analyse en Composantes Principales (ACP)",
+            link : "https://drive.google.com/file/d/1NvyhH-Ejm6IgFkaZ0ZeVIIlH_bD6_pR6/view?usp=sharing"
         }, module_5 : {
-            title : "Routage-vecteur-distance",
-            link : "https://drive.google.com/file/d/1iUrTAqeu8vYuxNWSj2g0XL5U04tmswZT/view?usp=sharing"
+            title : "exerice-Analyse des données : ACP",
+            link : "https://drive.google.com/file/d/1q5Advzxs09hDD3OKohNmSvtAvYIY7YGu/view?usp=sharing"
         }, module_6 : {
-            title : "Protocole RIP",
-            link : "https://drive.google.com/file/d/1SBxD0IS6I69LrsFosnodqEy1nyRRAQXt/view?usp=sharing"
+            title : "exam acp ",
+            link : "https://drive.google.com/file/d/1gw7kAXUSlJ8MrcTo8K0YXAGMlxVpLyh1/view?usp=sharing"
         }, module_7 : {
-            title : "",
-            link : ""
+            title : "exam-2 acp",
+            link : "https://docs.google.com/document/d/1ygDFhJvV8wWPYVODWYFsnehOAHGo4Swo/edit?rtpof=true"
         }, module_8 : {
             title : "",
             link : ""
@@ -521,25 +521,25 @@ const data_s2 = [
         icon : "fa-solid fa-code-branch",
         title : "web development",
         module_1 : {
-            title : "00-introduction generale au reseau",
-            link : "https://drive.google.com/file/d/1eB-wcPtya9zpeudstR-swbsern9IlBro/view?usp=sharing"
+            title : "HTML",
+            link : "https://drive.google.com/file/d/1OqRz49Jp4HK0Rm53xzs2l9TlFs8K2Yt4/view?usp=sharing"
         },
         module_2 : {
-            title : "01-modeles de references -OSI-TCPIP",
-            link : "https://drive.google.com/file/d/1oBk3gWT3v9PKhgcnLM0SsX3Rrj1hT99t/view?usp=sharing"
+            title : "HTML5",
+            link : "https://drive.google.com/file/d/1PxUAAVRESWgQK7DFr4D2sIfGNYnvqUES/view?usp=sharing"
         },
         module_3 : {
-            title : "02-Equipement d'interconnexion",
-            link : "https://drive.google.com/file/d/11iXX8SJIVUfSDTeFZOSxmo-3_ghZy_yE/view?usp=sharing"
+            title : "tp-html",
+            link : "https://drive.google.com/file/d/1dHNlO56SLtA_sCqPLvCpXMySHjjbH-kZ/view?usp=sharing"
         }, module_4 : {
-            title : "03-adressage",
-            link : "https://drive.google.com/file/d/1OPSL3GltepbRd0PKNZHKxfUoYY9eVd5j/view?usp=sharing"
+            title : "",
+            link : ""
         }, module_5 : {
-            title : "Routage-vecteur-distance",
-            link : "https://drive.google.com/file/d/1iUrTAqeu8vYuxNWSj2g0XL5U04tmswZT/view?usp=sharing"
+            title : "",
+            link : ""
         }, module_6 : {
-            title : "Protocole RIP",
-            link : "https://drive.google.com/file/d/1SBxD0IS6I69LrsFosnodqEy1nyRRAQXt/view?usp=sharing"
+            title : "",
+            link : ""
         }, module_7 : {
             title : "",
             link : ""
@@ -608,35 +608,35 @@ const data_s2 = [
             title : "03-adressage",
             link : "https://drive.google.com/file/d/1OPSL3GltepbRd0PKNZHKxfUoYY9eVd5j/view?usp=sharing"
         }, module_5 : {
-            title : "Routage-vecteur-distance",
-            link : "https://drive.google.com/file/d/1iUrTAqeu8vYuxNWSj2g0XL5U04tmswZT/view?usp=sharing"
+            title : "04 - Ethernet.pdf",
+            link : "https://drive.google.com/file/d/1ShWFVzPw0Bg7SfbMlLE4tk_TAGTAmRCG/view?usp=sharing"
         }, module_6 : {
-            title : "Protocole RIP",
-            link : "https://drive.google.com/file/d/1SBxD0IS6I69LrsFosnodqEy1nyRRAQXt/view?usp=sharing"
+            title : "05 - RÃ©seaux commutÃ©s.pdf",
+            link : "https://drive.google.com/file/d/1064LsbcbWWK-NipySJyZDn08vexQHGWU/view?usp=sharing"
         }, module_7 : {
-            title : "",
-            link : ""
+            title : "06 - TCP-IP.pdf",
+            link : "https://drive.google.com/file/d/1EcU4wANymgWELmIEBAEFqH2jO9g6Z3gF/view?usp=sharing"
         }, module_8 : {
-            title : "",
-            link : ""
+            title : "07 - Introduction au Routage IP.pdf",
+            link : "https://drive.google.com/file/d/16WT-CmTg8_N4yPFnJyMtuNyp45pusVMA/view?usp=sharing"
         }, module_9 : {
-            title : "",
-            link : ""
+            title : "08 - Protocoles de Transport.pdf",
+            link : "https://drive.google.com/file/d/1wKhTWNyTWrim30NQWlwG3u_ZhPYARe8L/view?usp=sharing"
         }, module_10 : {
-            title : "",
-            link : ""
+            title : "09 - Routage Vecteur-Distance.pdf",
+            link : "https://drive.google.com/file/d/1zkVAE7SqwKQ8u5WDf9uNb3QdzJLp-uhf/view?usp=sharing"
         }, module_11 : {
-            title : "",
-            link : ""
+            title : "exams tc.pdf",
+            link : "https://drive.google.com/file/d/15b_cwTfIhCZSNBpOYQ80V6u3uqhRQyXC/view?usp=sharing"
         },module_12 : {
-            title : "",
-            link : ""
+            title : "exam-page1",
+            link : "https://drive.google.com/file/d/11acGw2WcGuWkZzxJ4LND53JA0QS4ImbC/view?usp=sharing"
         },module_13 : {
-            title : "",
-            link : ""
+            title : "exam-page2",
+            link : "https://drive.google.com/file/d/1Hta79naRi6tYSXPzRuN04kMTdN90Ynz6/view?usp=sharing"
         },module_14 : {
-            title : "",
-            link : ""
+            title : "exam-page3",
+            link : "https://drive.google.com/file/d/1l5_ugEW6HtNBmMNe54bOgl0fE2ryEc-d/view?usp=sharing"
         },module_15 : {
             title : "",
             link : ""
@@ -667,25 +667,25 @@ const data_s2 = [
         icon : "fa-brands fa-hashnode",
         title : "Java",
         module_1 : {
-            title : "00-introduction generale au reseau",
-            link : "https://drive.google.com/file/d/1eB-wcPtya9zpeudstR-swbsern9IlBro/view?usp=sharing"
+            title : "Seance1.pdf",
+            link : "https://drive.google.com/file/d/1jzEIuUO0fljlW7_8RVSxWGgjDsnQUJj1/view?usp=sharing"
         },
         module_2 : {
-            title : "01-modeles de references -OSI-TCPIP",
-            link : "https://drive.google.com/file/d/1oBk3gWT3v9PKhgcnLM0SsX3Rrj1hT99t/view?usp=sharing"
+            title : "Seance3.pdf",
+            link : "https://drive.google.com/file/d/1-ZjfZQDJy7Db0WjnQe7dISbKdpcxiIiF/view?usp=sharing"
         },
         module_3 : {
-            title : "02-Equipement d'interconnexion",
-            link : "https://drive.google.com/file/d/11iXX8SJIVUfSDTeFZOSxmo-3_ghZy_yE/view?usp=sharing"
+            title : "Seance4.pdf",
+            link : "https://drive.google.com/file/d/19P4QkVgVZ8fMzg9N4JS_X-bx8D1nK-RP/view?usp=sharing"
         }, module_4 : {
-            title : "03-adressage",
-            link : "https://drive.google.com/file/d/1OPSL3GltepbRd0PKNZHKxfUoYY9eVd5j/view?usp=sharing"
+            title : "TP3",
+            link : "https://docs.google.com/document/d/1yvHDiPO3vKW0W2Hv1pNHcozNlSz58F9T/edit"
         }, module_5 : {
-            title : "Routage-vecteur-distance",
-            link : "https://drive.google.com/file/d/1iUrTAqeu8vYuxNWSj2g0XL5U04tmswZT/view?usp=sharing"
+            title : "",
+            link : ""
         }, module_6 : {
-            title : "Protocole RIP",
-            link : "https://drive.google.com/file/d/1SBxD0IS6I69LrsFosnodqEy1nyRRAQXt/view?usp=sharing"
+            title : "",
+            link : ""
         }, module_7 : {
             title : "",
             link : ""
