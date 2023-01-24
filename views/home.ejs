@@ -4,59 +4,23 @@
 <section class="courses">
     <h1 class="component">Semestre 1</h1>
     <div class="data">
-        <div class="box1">
-            <i class="fa-solid fa-code"></i>
-            <h1 class="content">Software and data</h1>
-        </div>
-        <div class="box1">
-            <i class="fa-solid fa-code-branch"></i>
-            <h1 class="content">Software and data</h1>
-        </div>
-        <div class="box1">
-            <i class="fa-solid fa-laptop-code"></i>
-            <h1 class="content">Software and data</h1>
-        </div>
-        <div class="box1">
-            <i class="fa-brands fa-hashnode"></i>
-            <h1 class="content">Software and data</h1>
-        </div> 
-        <div class="box1">
-            <i class="fa-solid fa-signal"></i>
-            <h1 class="content">Software and data</h1>
-        </div>
+        <% items.forEach(item => { %>
          <div class="box1">
-            <i class="fa-solid fa-hashtag"></i>
-            <h1 class="content">Software and data</h1>
+            <i class="<%= item.icon%>"></i>
+            <a href="/courses/<%=item.id %> "class="content"><%= item.title%></a>
         </div>
+        <% }) %> 
     </div>
 </section>
 <section class="courses">
     <h1 class="component">Semestre 2</h1>
     <div class="data">
-        <div class="box1">
-            <i class="fa-solid fa-code"></i>
-            <h1 class="content">Software and data</h1>
-        </div>
-        <div class="box1">
-            <i class="fa-solid fa-code-branch"></i>
-            <h1 class="content">Software and data</h1>
-        </div>
-        <div class="box1">
-            <i class="fa-solid fa-laptop-code"></i>
-            <h1 class="content">Software and data</h1>
-        </div>
-        <div class="box1">
-            <i class="fa-brands fa-hashnode"></i>
-            <h1 class="content">Software and data</h1>
-        </div> 
-        <div class="box1">
-            <i class="fa-solid fa-signal"></i>
-            <h1 class="content">Software and data</h1>
-        </div>
-         <div class="box1">
-            <i class="fa-solid fa-hashtag"></i>
-            <h1 class="content">Software and data</h1>
-        </div>
+        <% items_2.forEach(item => { %>
+            <div class="box1">
+               <i class="<%= item.icon%>"></i>
+               <a href="/courses/<%=item.id %> "class="content"><%= item.title%></a>
+           </div>
+           <% }) %> 
     </div>
 </section>
 

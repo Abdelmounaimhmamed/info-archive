@@ -125,8 +125,9 @@ i{
 }
 .content{
     color: white;
-    font-size: 22px;
+    font-size: 20px;
     margin: 10px;
+    text-decoration: none;
 }
 
 .about-1{
@@ -194,7 +195,7 @@ i{
 }
 p{
     color: gray;
-    
+
 }
 
 
